@@ -92,7 +92,7 @@ $ npm run server
 
 
 
-![1](README.assets/1.gif)
+![1](.github/profile/README.assets/1.gif)
 
 
 
