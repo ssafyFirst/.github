@@ -70,7 +70,7 @@ $ npm run server
 
 ## ERD
 
-![image-20220601160906826](README.assets/image-20220601160906826.png)
+![image-20220601160906826](./README.assets/image-20220601160906826.png)
 
 
 
