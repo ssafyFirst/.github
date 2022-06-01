@@ -1,12 +1,202 @@
-## Hi there 👋
+- 
+- Front-end
+  - vue : 2.6.14
+  - bootstrap-vue : 2.22.0
+  - vue-geolocation-api : 0.1.21
+  - vue-split-carousel : 1.1.1
+- Back-end
+  * dj-rest-auth      2.2.4
+  * Django : 3.2
+  * django-allauth : 0.50.0
+  * django-imagekit : 4.1.0
+  * django-restframework : 0.0.1
+  * djangorestframework : 3.13.1
 
-<!--
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 핵심 기능
+
+* Accounts
+  * 회원가입 Custom
+    * 프로필 이미지
+    * 좋아하는 장르 선택
+  * 회원정보 수정
+
+* 영화 정보
+  * 약 10000개 의 영화 데이터
+  * 약 10000개의 배우 데이터
+  * 약 20개의 장르
+  * axios로 상영작, 개봉작 실시간 반영
+  * 검색 기능을 통한 영화 검색 가능 (띄어쓰기 무시)
+  * 키워드별 영화 정렬 (역순까지)
+  * 영화 디테일로 배우 정보 관람 가능
+* 추천 알고리즘
+  * 좋아하는 장르 기반 추천 알고리즘
+* 커뮤니티
+  * 각 영화 별로 댓글 작성 가능
+  * 댓글을 통해 다른 유저의 프로필 관람 가능
+  * 다른 유저의 추천 목록 관람 가능
+* 영화관찾기
+  * 위치 api와 kakao api를 이용하여 가까운 영화관 찾기
+
+
+
+
+
+## installation
+
+* back
+
+```bash
+$ pip install -r requirements.txt
+```
+
+```bash
+$ python manage.py migrate
+$ python manage.py loaddata movie_data.json actor_data.json genre_data.json
+$ python manage.py runserver
+```
+
+
+
+* front
+
+```bash
+$ npm install
+$ npm run server
+```
+
+
+
+## ERD
+
+![image-20220601160906826](README.assets/image-20220601160906826.png)
+
+
+
+## 기능 구현
+
+![image-20220601162313140](README.assets/image-20220601162313140.png)
+
+
+
+![image-20220601162347726](README.assets/image-20220601162347726.png)
+
+
+
+
+
+
+
+
+
+
+
+![2022-06-01 16;28;58](README.assets/2022-06-01 16;28;58.gif)
+
+
+
+
+
+
+
+
+
+![2022-06-01 16;30;49](README.assets/2022-06-01 16;30;49.gif)
+
+
+
+
+
+
+
+
+
+![2022-06-01 16;33;08](README.assets/2022-06-01 16;33;08.gif)
+
+
+
+
+
+![2022-06-01 16;35;41](README.assets/2022-06-01 16;35;41.gif)
+
+
+
+
+
+
+
+![2022-06-01 16;47;23](README.assets/2022-06-01 16;47;23.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2022-06-01 16;37;53](README.assets/2022-06-01 16;37;53.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+![image-20220601163905548](README.assets/image-20220601163905548.png)
+
+
+
+
+
+
+
+
+
+![2022-06-01 16;39;45](README.assets/2022-06-01 16;39;45.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
