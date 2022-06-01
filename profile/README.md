@@ -92,7 +92,7 @@ $ npm run server
 
 
 
-![2022-06-01 16;28;58](README.assets/2022-06-01 16;28;58.gif)
+![1](README.assets/1.gif)
 
 
 
