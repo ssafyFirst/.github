@@ -102,7 +102,7 @@ $ npm run server
 
 
 
-![2022-06-01 16;30;49](README.assets/2022-06-01 16;30;49.gif)
+![2](README.assets/2.gif)
 
 
 
@@ -112,27 +112,21 @@ $ npm run server
 
 
 
-![2022-06-01 16;33;08](README.assets/2022-06-01 16;33;08.gif)
+![3](README.assets/3.gif)
 
 
 
 
 
-![2022-06-01 16;35;41](README.assets/2022-06-01 16;35;41.gif)
-
-
-
-
-
-
-
-![2022-06-01 16;47;23](README.assets/2022-06-01 16;47;23.gif)
+![4](README.assets/4.gif)
 
 
 
 
 
 
+
+![2022-06-01 16;47;23](README.assets/7.gif)
 
 
 
@@ -142,7 +136,13 @@ $ npm run server
 
 
 
-![2022-06-01 16;37;53](README.assets/2022-06-01 16;37;53.gif)
+
+
+
+
+
+
+![5](README.assets/5.gif)
 
 
 
@@ -166,7 +166,7 @@ $ npm run server
 
 
 
-![2022-06-01 16;39;45](README.assets/2022-06-01 16;39;45.gif)
+![6](README.assets/6.gif)
 
 
 
