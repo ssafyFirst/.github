@@ -112,27 +112,21 @@ $ npm run server
 
 
 
-![3](README.assets/3.gif)
+![3](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/3.gif)
 
 
 
 
 
-![4](README.assets/4.gif)
-
-
-
-
-
-
-
-![2022-06-01 16;47;23](README.assets/7.gif)
+![4](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/4.gif)
 
 
 
 
 
 
+
+![2022-06-01 16;47;23](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/7.gif)
 
 
 
@@ -142,7 +136,13 @@ $ npm run server
 
 
 
-![5](README.assets/5.gif)
+
+
+
+
+
+
+![5](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/5.gif)
 
 
 
@@ -166,7 +166,7 @@ $ npm run server
 
 
 
-![6](README.assets/6.gif)
+![6](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/6.gif)
 
 
 
