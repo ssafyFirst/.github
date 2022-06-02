@@ -102,7 +102,7 @@ $ npm run server
 
 
 
-![2](README.assets/2.gif)
+![2](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/2.gif)
 
 
 
