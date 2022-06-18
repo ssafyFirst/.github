@@ -98,98 +98,22 @@ VUE_APP_KAKAO_MAP = add kakao map API Key here!
 
 ![image-20220601162313140](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/image-20220601162313140.png)
 
-
-
 ![image-20220601162347726](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/image-20220601162347726.png)
-
-
-
-
-
-
-
-
-
-
 
 ![1](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/1.gif)
 
-
-
-
-
-
-
-
-
 ![2](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/2.gif)
-
-
-
-
-
-
-
-
 
 ![3](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/3.gif)
 
-
-
-
-
 ![4](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/4.gif)
-
-
-
-
-
-
 
 ![2022-06-01 16;47;23](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/7.gif)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![5](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/5.gif)
-
-
-
-
-
-
-
-
-
-
-
-
 
 ![image-20220601163905548](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/image-20220601163905548.png)
 
-
-
-
-
-
-
-![sidebar](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/map.PNG)
-
-
-
-
-
-
+![sidebar](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/sidebar.PNG)
 
 ![6](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/6.gif)
