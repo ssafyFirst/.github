@@ -1,4 +1,3 @@
-- 
 - Front-end
   - vue : 2.6.14
   - bootstrap-vue : 2.22.0
@@ -12,7 +11,7 @@
   * django-restframework : 0.0.1
   * djangorestframework : 3.13.1
 
-
+---
 
 ## 핵심 기능
 
@@ -41,7 +40,7 @@
 
 
 
-
+---
 
 ## installation
 
@@ -57,13 +56,34 @@ $ python manage.py loaddata movie_data.json actor_data.json genre_data.json
 $ python manage.py runserver
 ```
 
+​		secrets.json
 
+```json
+{
+    "SECRET_KEY" : add Django Key here!
+}
+```
+
+​		.env
+
+```
+TMDB_API_KEY = add TMDB API Key here!
+```
+
+---
 
 * front
 
 ```bash
 $ npm install
 $ npm run server
+```
+
+​		.env.local
+
+```
+VUE_APP_TMDB_KEY = add TMDB API Key here!
+VUE_APP_KAKAO_MAP = add kakao map API Key here!
 ```
 
 
@@ -164,39 +184,12 @@ $ npm run server
 
 
 
+![sidebar](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/map.PNG)
+
+
+
+
+
 
 
 ![6](https://github.com/ssafyFirst/.github/blob/main/profile/README.assets/6.gif)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
